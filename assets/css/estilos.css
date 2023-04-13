@@ -11,6 +11,13 @@ body {
   background-position: left;
 }
 
+/*About Me*/
+
+#Acerca-de-mi div p {
+  text-align: justify;
+  text-justify: inter-word;}
+
+
 /* Mis trabajos */
 
 #Mis-trabajos .image-top {
